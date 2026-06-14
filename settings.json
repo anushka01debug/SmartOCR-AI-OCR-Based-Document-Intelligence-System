@@ -1,0 +1,67 @@
+{
+    "keywords": {
+        "Invoice": [
+            "invoice",
+            "bill to",
+            "due date",
+            "subtotal",
+            "tax",
+            "purchase order",
+            "invoice number",
+            "amount due",
+            "remit to",
+            "billing address"
+        ],
+        "Receipt": [
+            "receipt",
+            "total paid",
+            "change due",
+            "thank you",
+            "items",
+            "cashier",
+            "store #",
+            "visa",
+            "mastercard",
+            "tendered",
+            "payment method"
+        ],
+        "Certificate": [
+            "certificate",
+            "awarded",
+            "hereby certify",
+            "signature",
+            "presented to",
+            "recognition of",
+            "achievement",
+            "this certificate",
+            "successful completion"
+        ],
+        "Question Paper": [
+            "marks",
+            "question",
+            "answer all",
+            "section a",
+            "section b",
+            "maximum marks",
+            "duration:",
+            "time allowed",
+            "each question",
+            "roll no"
+        ],
+        "Notes": [
+            "chapter",
+            "unit",
+            "definition",
+            "summary",
+            "key points",
+            "introduction",
+            "conclusion",
+            "references",
+            "lecture notes",
+            "study guide",
+            "important concepts",
+            "notes"
+        ]
+    },
+   "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+}
