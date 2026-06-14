@@ -58,6 +58,18 @@ SmartOCR AI is an OCR-powered document intelligence platform built using Python,
 
 ![Batch Processing](images/Batch%20processing.png)
 
+## 📸 Additional System Configuration Features
+
+### OCR Engine Configuration
+### Saving to Database
+![Saving to Database](images/Saving%20to%20database.png)
+
+### Document Classifier Keyword Manager
+![Keyword Manager](images/System%20Configuration--Keyword%20Manager.png)
+
+### Database Administration
+![Database Administration](images/System%20Configuration--DB%20Management.png)
+
 ---
 
 ## 📂 Project Structure
